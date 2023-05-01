@@ -1,0 +1,38 @@
+.nombre-de-grupo {
+    background-color: blueviolet;
+    width: 4%;
+    border: 10px double black;
+}
+.titulo-principal {
+    background-color: blueviolet;
+    width: 35%;
+    border: 10px double black;
+}
+.historia {
+    background-color: blueviolet;
+    border: 10px double black;
+}
+.canciones {
+    background-color: blueviolet;
+}
+.enlace1 {
+    background-color: blueviolet;
+}
+.enlace2 {
+    background-color: blueviolet;
+}
+.enlace3 {
+    background-color: blueviolet;
+}
+.otros-grupos {
+    background-color: blueviolet;
+    width: 7%;
+    border: 10px double black;
+}
+.creador {
+    background-color: black;
+    color: blueviolet;
+    border: 5px double blueviolet;
+} 
+body {background-color: black;
+}

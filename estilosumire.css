@@ -1,0 +1,17 @@
+.titulo-principal {
+    background-color: blueviolet;
+    width: 31%;
+    border: 10px double black;
+}
+.sumire {
+    background-color: blueviolet;
+    width: 10%;
+    border: 10px double black;
+}
+.creador {
+    color: blueviolet;
+    border: 5px double blueviolet;
+        }
+        body {
+            background-color: black;
+        }

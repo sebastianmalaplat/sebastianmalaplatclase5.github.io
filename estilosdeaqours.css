@@ -1,0 +1,39 @@
+.titulo-principal {
+    background-color: blueviolet;
+    width: 32%;
+    border: 10px double black;
+}
+.subtitulo {
+    background-color: blueviolet;
+    width: 5%;
+    border: 10px double black;
+}
+.resumen {
+    background-color: blueviolet;
+    border: 10px double black;
+}
+.historia {
+    background-color: blueviolet;
+    width: 60%;
+    border: 10px double black;
+}
+.canciones {
+    background-color: blueviolet;
+}
+.canciones1 {
+    background-color: blueviolet;
+}
+.canciones2 {
+    background-color: blueviolet;
+}
+.canciones3 {
+    background-color: blueviolet;
+}
+.creador {
+    background-color: black;
+    color: blueviolet;
+    border: 5px double blueviolet;
+}
+body {
+    background-color: black;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.titulo-principal {
+    background-color: blueviolet;
+    width: 31%;
+    border: 10px double black;
+}
+.subtitulo {
+    background-color: blueviolet;
+    width: 11%;
+    border: 10px double black;
+
+}
+.crador {
+    background-color: black;
+    color: blueviolet;
+    border: 5px double blueviolet;
+        }

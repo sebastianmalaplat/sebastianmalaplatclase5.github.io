@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.usuario {
+    color: blueviolet;
+    border: 5px double blueviolet;
+}
+.contraseña {
+    color: blueviolet;
+    border: 5px double blueviolet;
+}
+.confirmacion {
+    color: blueviolet;
+    border: 5px double blueviolet;
+}
+.creador {
+    color: blueviolet;
+    border: 5px double blueviolet;
+}
